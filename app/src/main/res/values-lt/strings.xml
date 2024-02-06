@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LD1ND2CV</string>
+
+    <string name="full_name">Deividas Dambrauskas</string>
+    <string name="student_group">MKDf-20/2</string>
+    <string name="job_title">Web Developer</string>
+    <string name="my_email">d.dambrauskas@stud.vilniustech.lt</string>
+    <string name="my_phone_num">+3706xxxxxxx</string>
+
+    <string name="language">Kalba</string>
+    <string name="languages">Kalbos</string>
+    <string name="language_en">Anglų k.</string>
+    <string name="language_lt">Lietuvių k.</string>
+
+    <string name="email_error">Nepavyko išsiųsti</string>
+    <string name="email_subject">Tema</string>
+    <string name="email_content">Žinutės turinys</string>
+    <string name="send_email_to">Gavėjas</string>
+
+    <string name="send">Siųsti</string>
+    <string name="settings">Nustatymai</string>
+    <string name="close">Uždaryti</string>
+
+    <string name="main">Pagrindinis</string>
+    <string name="cv">CV</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="contact_us">Susisiekite</string>
+
+    <string name="author_content">Darbą atliko </string>
+    <string name="extra_entries">Papildomi įrašai </string>
+    <string name="add_entry">Pridėti įrašą </string>
+    <string name="remove_entry"> Panaikinti įrašą </string>
+    <string name="enter_para_title"> Įrašo pavadinimas</string>
+    <string name="enter_para_text"> Įrašo tekstas</string>
+    <string name="qr_code"> QR kodas</string>
+
+    <string name="description1"> Platformerinis žaidimas sukurtas naudojant Unity</string>
+    <string name="description2"> Knygyno logo sukurtas trim skirtingais būdais naudojant Adobe Illustrator</string>
+    <string name="description3"> Nuotraukų koliažas sukurtas naudojant Adobe Photoshop</string>
+    <string name="description4"> Knygyną reklamuojantis plakatas sukurtas naudojant Adobe Photoshop</string>
+    <string name="description5"> Stilizuota iliustracija sukurta naudojant Adobe Illustrator</string>
+    <string name="description6"> Vietinis tinklalapis sukurtas naudojant php kalbą</string>
+    <string name="description7"> Vietinis tinklalapis sukurtas naudojant JS Boostrap biblioteką</string>
+    <string name="description8"> Funkcionali naudotojo įvestimi paremta scena BabylonJS aplinkoje</string>
+    <string name="description9"> Funkcionalus naudotojo įvestimi paremtas statistinis žemėlapis ArcGIS Maps SDK for JS aplinkoje</string>
+
+    <string name="skills"> Prasmingi programavimo įgūdžiai</string>
+    <string name="skill1"> C++</string>
+    <string name="skill2"> C#</string>
+    <string name="skill3"> PHP</string>
+    <string name="skill4"> Javascript</string>
+    <string name="skill5"> HTML/CSS</string>
+    <string name="skill6"> Kotlin</string>
+    <string name="skill7"> MySQL</string>
+    <string name="skill8"> R</string>
+
+    <string name="additional_skills"> Kiti įgūdžiai</string>
+    <string name="add_skill1"> Adobe Photoshop</string>
+    <string name="add_skill2"> Adobe After Effects</string>
+    <string name="add_skill3"> Adobe Premiere</string>
+    <string name="add_skill4"> Adobe Illustrator</string>
+    <string name="add_skill5"> Unity</string>
+    <string name="add_skill6"> Blender</string>
+    <string name="add_skill7"> Figma</string>
+
+    <string name="about_me"> Apie mane</string>
+    <string name="about_me_desc"> Esu paskutinių metų studentas Multimedijos ir Kompiuterinio Dizaino studijų programoje Vilniaus Gedimino Technikos Universitete. Mano stiprybės yra tvirtas anglų kalbos suvokimas, patirtis dirbant su dideliu kiekiu programavimo kalbų, ištvermė ir sąžiningumas.</string>
+</resources>
