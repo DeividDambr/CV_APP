@@ -1,1 +1,1 @@
-# CV_APP
+A simple CV app made with Kotlin
